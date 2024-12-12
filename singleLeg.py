@@ -26,7 +26,7 @@ bar_m = 15
 
 
 # Fixed points
-axleCenter = [0, 10.0]
+axleCenter = [0, 10]
 joint_0= [axleCenter[0], axleCenter[1]+ bar_l]
 joint_3 = [axleCenter[0] - bar_a, axleCenter[1]]
 
